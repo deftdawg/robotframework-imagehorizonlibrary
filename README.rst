@@ -1,3 +1,5 @@
+** NOTE ** To install the Python3 compatitable version of this code ``pip install git+https://github.com/JonKoser/robotframework-imagehorizonlibrary.git@feature/python3``
+
 ===================
 ImageHorizonLibrary
 ===================
